@@ -1,0 +1,294 @@
+#encabezado{
+			height:100px;
+                        width: auto;
+  			background-color:#000000;
+			padding-left: 80px;
+}
+#barra1{
+			height:45px;
+                        width: auto;  			
+			background-image: url(../fondobarra2.png);
+			padding-left: 90px;	
+					
+}
+
+#barra2{
+			height:60%;
+                        width: auto;  
+			
+    			padding-right: 10px;
+    			
+    			padding-left: 10px;
+}
+
+.boton{
+			height:100%;
+			float:left;
+    			padding-right: 10px;
+    			color:white;
+    			padding-left: 10px;
+			
+}
+
+.boton:hover {
+                        background-color: black;
+
+}
+
+
+#tituloleft{
+			float:left;
+			height:10%;
+                        width: 35%;
+			margin-left:7%;
+  						
+}
+#tituloright{
+			float:left;
+			height:10%;
+                        width: 35%;
+			margin-left:7%;
+  						
+}
+#bodyleft{
+			float:left;
+			height:80%;
+                        width: 35%;
+			margin-left:7%;
+			
+  						
+}
+#bodyright{
+			float:left;
+			height:30%;
+                        width: 35%;
+			margin-left:7%;
+  			border-style: solid;
+			border-color:grey;			
+}
+#div_pregunta{
+			float:left;
+			height:30%;
+                        width: 10%;
+			
+  			
+			background-image: url(../fondobarra.png);
+			background-size: 100% 100%;
+   			background-repeat: no-repeat;
+}
+#div_pregunta2{
+			float:left;
+			height:30%;
+                        width: 80%;
+			
+  			
+			background-image: url(../fondobarra.png);
+			background-size: 100% 100%;
+    			background-repeat: no-repeat;
+}
+
+#div_bodyright_centrar{
+			float:center;
+			height:100%;
+                        width: 80%;
+			margin-left:10%;
+  			
+
+}
+#div_boton{
+			float:center;
+			height:10%;
+                        width: 80%;
+			margin-left:10%;
+  			
+
+}
+
+#div_imagenes1{
+			float:center;
+			height:20%;
+                        width: auto;
+			margin-top:21%;
+			margin-left:7%;
+  			
+}
+
+#div_contenedor_imagen1{
+			float:left;
+			height:98%;
+                        width: 13%;
+  			
+			background-color:#848484;
+			margin-left:100px;
+  			border-style: solid;
+			border-color:grey;	
+}
+
+#div_pie_contenedor{
+			float:left;
+			height:80%;
+                        width: 98%;
+			background-color:#848484;
+			
+}
+
+#div_pie_pagina
+{
+			float:center;
+			height:20%;
+                        width: auto;
+			margin-top:2%;
+			margin-left:7%;
+  			border-top-style: solid;
+			border-color:orange;
+
+}
+
+#div_pie_pagina2
+{
+			float:left;
+			height:20%;
+                        width: 80%;
+			margin-top:2%;
+			margin-left:7%;
+  			border-top-style: solid;
+			border-color:orange;
+
+}
+
+#div_flecha{
+			float:left;
+			height:100%;
+                        width: 20%;
+			margin-top:3%;
+  			
+}
+#div_pie_centro{
+			float:left;
+			height:100%;
+                        width: 50%;
+			margin-top:2%;
+  			
+
+}
+#div_flecha2{
+			float:right;
+			height:100%;
+                        width: 28%;
+			margin-top:3%;
+  			
+}
+
+
+
+
+
+
+#menu {
+			float:left;
+			height:12%;
+                        width: 99%;
+
+			border-width: 2px;
+			background-image: url(../fondobarra3.png);
+}
+
+
+#confirmar{
+			float:left;
+			height:10%;
+                        width: 50%;
+			margin-top:15%;
+}
+
+#confirmar2{
+			float:left;
+			height:40%;
+                        width: 48%;
+}
+
+#confirmar3{
+			float:center;
+			height:22%;
+                        width: 100%;
+			margin-top:30%;
+			background-color:#FFFFFF;
+}
+#bodyright2{
+			float:left;
+			height:31%;
+                        width: 80%;
+			border-style: solid;
+			border-color:grey;
+			background-color:#E2DADA;			
+}
+
+#bodyrightmain2{
+			float:left;
+			height:80%;
+                        width: 40%;
+			margin-left:7%;
+  				
+}
+
+
+#div_imagenes2{
+			float:center;
+			height:20%;
+                        width: auto;
+			margin-top:1%;
+			margin-left:7%;
+  			
+			
+
+}
+
+#div_contenedor_imagen2{
+			float:left;
+			height:25%;
+                        width: 30%;
+			background-color:#848484;
+  			border-style: solid;
+			border-color:grey;	
+
+}
+#div_pie_contenedor2{
+			float:left;
+			height:50%;
+                        width: 100%;
+			background-color:#848484;
+			
+}
+
+#div_imagenes3{
+			float:center;
+			height:20%;
+                        width: auto;
+			margin-left:7%;
+			
+margin-top:0.3%;
+
+}
+#sugerencias{
+			float:center;
+			height:5%;
+                        width: auto;
+			margin-top:22%;
+			margin-left:7%;
+			}
+
+#sugerencias2{
+			margin-top:5%;
+			float:left;
+			height:5%;
+                        width: 90%;
+			}
+
+#aux_main2{
+			
+			float:right;
+			height:25%;
+                        width: 90;
+			border-style: solid;
+			border-color:white;
+			}
